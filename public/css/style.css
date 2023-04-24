@@ -1,0 +1,20 @@
+header {
+    background-color: blue;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.post {
+    color: black;
+}
+
+.message {
+    color: black;
+}
+
+h1 {
+    color: white;
+}

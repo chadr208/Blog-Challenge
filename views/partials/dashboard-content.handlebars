@@ -1,0 +1,7 @@
+{{#each postData as |post|}}
+    <a class="post" href="dashboard/post/{{post.id}}">
+        <h2>{{post.title}}</h2>
+        <p>{{post.contents}}</p>
+        <p>By {{post.username}} on {{post.date}}</p>
+    </a>
+{{/each}}

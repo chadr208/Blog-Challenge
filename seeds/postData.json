@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Handlebars",
+      "contents": "Handlebars compiles templates into JavaScript functions. This makes the template execution faster than most other template engines.",
+      "user_id": 1,
+      "date": 1679361440068
+    },
+    {
+        "title": "Node JS",
+        "contents": "Node.js® is an open-source, cross-platform JavaScript runtime environment.",
+        "user_id": 2,
+        "date": 1679361440068
+    },
+    {
+        "title": "Sequelize",
+        "contents": "Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite and SQL Server, and more.",
+        "user_id": 3,
+        "date": 1679361440068
+    }
+]
